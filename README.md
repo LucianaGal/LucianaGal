@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucianaGal
 - 👀 I’m a Data Analyst. Knowledge in Python, SQL, Tableau, MongoDB
-- 🌱 I’m currently pursuing a double Master in Business adminitration (MBA) & Big Data and Business Intelligence.
+- 🌱 I’m currently pursuing a double Master in Business Adminitration (MBA) & Big Data and Business Intelligence.
 - 📫 How to reach me: you can write me at luli.galimberti@hotmail.com
 - 🏷 Extra info: I'm a professional Field Hockey player and that's my job now. I want to take a 180-degree turn and lean in another direction. So I'm new in this field and very excited about every single step of the way! 
