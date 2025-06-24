@@ -7,9 +7,7 @@
 - 📫 How to reach me: you can write me at luli.galimberti@hotmail.com
   
 - 🏷 Extra info:
-Driven by discovery and practical thinking. I’m a Data Analyst with a background in business operations and a strong instinct for finding patterns and meaning in data.
-
-After nearly ten years managing a company and leading teams, I shifted into analytics to connect structure with insight.
+Driven by discovery and practical thinking. I’m a Data Analyst with a background in business operations and a strong instinct for finding patterns and meaning in data. After nearly ten years managing a company and leading teams, I shifted into analytics to connect structure with insight.
 
 I work closely with people to help them understand and use their data. From retail managers in Buenos Aires, to decision-making research with Vixon, a company focused on neuroscience in sports. Or financial advisors in Australia looking to track performance with clarity.
 
